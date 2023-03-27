@@ -14,7 +14,7 @@ function reverseNumberToArray(number) {
     .split("")
     .map((m) => Number(m))
     .reverse();
-  // // asy wey
+  // asy wey
   // // Convert the number to a string using the toString() method.
   // let numString = number.toString();
   // // Split the string into an array of characters using the split() method.
